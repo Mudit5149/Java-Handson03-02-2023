@@ -1,3 +1,4 @@
+//java program to print the prime no up to 50
 package hackerrank_Solution;
 
 public class Prime_numbers {
